@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Harshit! 👋
 
-<!--
-**harshitkumar8197/harshitkumar8197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software enthusiast and student focused on building efficient programs and sharpening my engineering fundamentals.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+*   **Languages:** C++, Code Fundamentals
+*   **Areas of Interest:** Systems Programming, Problem Solving, Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+*   📚 Learning advanced data structures and algorithm design.
+*   💻 Building foundational projects to solve real-world problems.
+*   🎯 Improving code optimization and efficiency.
+
+### 📫 Connect With Me
+*   **Email:** harshitkumar8197@gmail.com
